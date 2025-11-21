@@ -1,0 +1,8 @@
+pandas 
+numpy
+tensorflow
+tensorflow.keras.models-Sequential
+tensorflow.keras.layers-Dense
+sklearn.model_selection-train_test_split
+sklearn.preprocessing-StandardScaler
+tensorflow.keras.utils-to_categorical
